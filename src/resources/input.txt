@@ -1,0 +1,4 @@
+hello world
+hello hadoop
+hello eclipse
+say hello to the hadoop world
